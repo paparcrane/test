@@ -25,10 +25,10 @@ void bubbleSort(int arr[],int n)
 
 int main()
 {
-    int arr[]={9,3,1,2,6,4,5,7,8};
+    int arr[]={0,3,1,4,6,2,5,9，7,8};
     int i;
-    bubbleSort(arr,9);
-    for(i=0;i<9;i++)
+    bubbleSort(arr,,10);
+    for(i=0;i<10;i++)
     {
         printf("%d\n",arr[i]);
     }
