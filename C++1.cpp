@@ -22,7 +22,7 @@ public:
 
 void test01()
 {
-	Person p("zhangsan");
+	Person p("zhouyongjuan");
 	p.sayHello(p);
 }
 
